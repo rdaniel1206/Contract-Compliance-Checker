@@ -1,0 +1,2 @@
+# Minimal requirements for demo
+# Uses Python standard library only
