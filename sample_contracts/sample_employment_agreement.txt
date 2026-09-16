@@ -1,0 +1,8 @@
+EMPLOYMENT AGREEMENT
+
+1. Position and Duties: Employee is hired for the position of Lead Software Engineer with base salary of \,000.
+2. Confidentiality: Employee agrees not to disclose trade secrets and proprietary information.
+3. Intellectual Property: Any invention developed during employment shall be assigned to Employer.
+4. Non-Compete and Non-Solicitation: Employee shall not compete with Employer worldwide for a period of 5 years following termination.
+5. Termination: Employer may terminate employment upon written notice of thirty (30) days or for cause with 15 days cure period.
+6. Governing Law: This agreement is governed by the laws of California.

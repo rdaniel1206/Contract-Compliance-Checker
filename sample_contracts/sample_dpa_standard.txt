@@ -1,0 +1,8 @@
+DATA PROCESSING AGREEMENT
+
+1. Scope and GDPR Compliance: The Processor processes personal data on behalf of the Controller.
+2. Confidentiality: Processor personnel are subject to duty of confidentiality.
+3. Security Measures: Processor implements technical and organizational measures to safeguard personal data.
+4. Breach Notification: Processor shall notify Controller without undue delay and within 72 hours of becoming aware of any personal data breach.
+5. Sub-processors: Processor may engage subprocessors with prior written authorization of Controller.
+6. Governing Law: Governed by the laws of Germany and European Union GDPR regulations.

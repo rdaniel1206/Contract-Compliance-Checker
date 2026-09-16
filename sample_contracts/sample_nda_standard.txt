@@ -1,0 +1,7 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+1. Confidential Information: Each party shall maintain all proprietary information in strict confidence and shall not disclose it to third parties without prior written consent, using the same standard of care (and not less than reasonable care) as it uses to protect its own confidential information. Exclusions include information that is publicly known, already known prior to disclosure, or required by law or legal process.
+2. Term and Termination: This Agreement shall remain in effect for a period of two (2) years. Either party may terminate for convenience upon written notice of thirty (30) days.
+3. Return of Materials: Upon termination, receiving party shall return or destroy all confidential information.
+4. Governing Law and Jurisdiction: This Agreement shall be governed by the laws of the State of Delaware, and the courts of Delaware shall have exclusive jurisdiction.
+5. Mutual Indemnification: Each party shall defend and hold harmless the other party from third-party claims arising out of gross negligence or willful misconduct.

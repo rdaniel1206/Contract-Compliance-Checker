@@ -1,0 +1,9 @@
+MASTER SERVICES AGREEMENT
+
+1. Scope of Work: Contractor shall provide software engineering deliverables as outlined in Statements of Work (SOW).
+2. Intellectual Property Rights: Contractor agrees all work product constitutes work made for hire and client retains exclusive ownership of deliverables.
+3. Payment Terms: Client shall pay fees net 30 days upon invoice receipt. Late payment interest shall accrue at 1.5% per month.
+4. Limitation of Liability: Contractor shall have unlimited liability for all damages. Neither party limits maximum liability or aggregate liability. Client is not liable for indirect damages.
+5. Unilateral Indemnification: Contractor shall indemnify and hold harmless Client against all third-party claims, costs, and attorney fees without limitation.
+6. Term and Termination: Client may terminate immediately without cause at any time without notice. Contractor has no cure period upon breach.
+7. Governing Law: This contract shall be governed by the foreign laws of an offshore jurisdiction.

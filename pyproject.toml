@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "contract-compliance-checker"
+version = "1.0.0"
+description = "Multi-Agent AI Contract Compliance & Legal Risk Auditor"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.optional-dependencies]
+pdf = ["pypdf>=3.0.0"]
+docx = ["python-docx>=0.8.11"]
+dev = ["pytest>=7.0.0"]

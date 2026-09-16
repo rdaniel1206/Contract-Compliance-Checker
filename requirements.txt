@@ -1,2 +1,8 @@
-# Minimal requirements for demo
-# Uses Python standard library only
+# Core requirements:
+# Zero mandatory external dependencies required (uses Python 3.8+ Standard Library)
+
+# Optional dependencies for rich file parsing:
+# pypdf>=3.0.0          # For enhanced PDF text extraction
+# python-docx>=0.8.11   # For Microsoft Word (.docx) contract extraction
+# pytest>=7.0.0         # Optional alternative test runner
+
